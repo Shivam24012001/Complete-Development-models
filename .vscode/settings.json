@@ -14,5 +14,8 @@
         "phalcon",
         "volt",
         "none"
-    ]
+    ],
+    "editor.suggest.selectionMode": "never",
+    "workbench.settings.useSplitJSON": false,
+    "json.validate.enable": false
 }
